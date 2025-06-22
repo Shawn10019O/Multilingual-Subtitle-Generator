@@ -1,0 +1,10 @@
+streamlit
+moviepy
+openai-whisper
+torch
+pyannote.audio
+numpy
+pillow
+transformers
+python-dotenv
+openai
